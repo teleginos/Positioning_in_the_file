@@ -5,3 +5,6 @@
 functions.py,b/9/b925b14d25866ccaec5e5c1d9b5529ebbcb61ba6
 =
 file_info.txt,8/e/8e3fb587080c409ad31805bc05449ba37c2e923b
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
